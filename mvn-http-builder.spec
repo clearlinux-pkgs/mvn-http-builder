@@ -4,7 +4,7 @@
 #
 Name     : mvn-http-builder
 Version  : 0.7.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/jgritman/httpbuilder/archive/http-builder-0.7.2.tar.gz
 Source0  : https://github.com/jgritman/httpbuilder/archive/http-builder-0.7.2.tar.gz
 Source1  : https://repo.gradle.org/gradle/libs-releases/org/codehaus/groovy/modules/http-builder/http-builder/0.7.2/http-builder-0.7.2.jar
